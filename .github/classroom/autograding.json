@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Simple Display",
+      "setup": "sudo -H pip3 install initials",
+      "run": "initials",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
