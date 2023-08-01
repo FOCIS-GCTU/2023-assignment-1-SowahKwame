@@ -3,7 +3,7 @@
     {
       "name": "Simple Display",
       "setup": "sudo -H pip3 install initials",
-      "run": "initials",
+      "run": "python initials.py",
       "input": "",
       "output": "",
       "comparison": "included",
