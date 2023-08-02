@@ -1,9 +1,9 @@
 {
   "tests": [
     {
-      "name": "Simple Display",
-      "setup": "sudo -H pip3 install initials",
-      "run": "python initials.py",
+      "name": "initials_test.py",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest initials_test.py",
       "input": "",
       "output": "",
       "comparison": "included",
